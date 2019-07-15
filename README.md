@@ -1,7 +1,8 @@
 # CustomPageTemplatePlugin
-Add A Custom Page Template with Custom Fields Via a WordPress Plugin
+Add A Custom Page Template with Custom Metaboxes via a WordPress Plugin
 
-This is a boilerplate plugin to be used to add a custom page template with custom metaboxes to a WordPress Site via a plugin.
+This is a boilerplate plugin to be used to add a custom page template with custom metaboxes to a WordPress Site via a plugin. It's useful for situations where you don't have a child theme available, and you don’t want run the risk of having your changes overwritten when your parent theme gets updated.
+
 
 ## Usage:
 - Download or Clone Repo.
