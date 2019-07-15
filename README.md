@@ -9,6 +9,7 @@ This is a boilerplate plugin to be used to add a custom page template with custo
 - On line 81 of custompagetemplate.php add the template(s) you want to use to the array:
 
 'my-custom-template-file.php' => 'My Custom Template',
+
       ^^ Template File              ^^ Dropdown Name
 
 
